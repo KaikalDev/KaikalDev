@@ -4,6 +4,10 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+<p align="left">
+  <img align="center" src="https://i.imgur.com/1ZvVkDc.gif" alt="Imagem">
+</p>
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Kaique! I'm a student and full stack developer from Brazil.
@@ -40,9 +44,7 @@
 - [Client Registry System](https://github.com/VariableBee/Cartorio)
 -->
 <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
-</p>
+
 
 ## 🔥 Skills
 <div style="flex-basis: 48%;">
@@ -73,3 +75,5 @@
     <img align="center" alt="Gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
+
+![Snake animation](https://github.com/Ricmaloy/KaikalDev/blob/output/github-contribution-grid-snake.svg)
