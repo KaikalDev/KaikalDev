@@ -75,5 +75,3 @@
     <img align="center" alt="Gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
     <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
-
-![Snake animation](https://github.com/Ricmaloy/KaikalDev/blob/output/github-contribution-grid-snake.svg)
