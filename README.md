@@ -1,16 +1,75 @@
-## Hi there 👋
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
 
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Kaique! I'm a student and full stack developer from Brazil.
+
+  - 🌱 I am currently studying Systems Analysis and Development at UEPB and pursuing a Full Stack Java course at EBAC.
+
+  - 🔭 I love exploring new technologies and facing new challenges.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 19 years old and currently live in Brazil. I have knowledge in web development, Python, and Java. Although I don't have professional experience yet, I feel ready for an internship to gain hands-on learning.
+  
+  - ⚡ I'm a big fan of all geek culture, comics, manga, movies and games are my hobbies. Furthermore, I am fascinated by puzzles like Rubik's cubes. I believe that our personal interests are oriented towards a keener perception of things and better problem-solving skills. \O/
+</details>
+
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaique-luan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaique_123luan/)
+
+<!-- GithubStats -->
+![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kaikaldev&show_icons=true&theme=gotham)
+![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikalDev&show_icons=true&theme=gotham)
+
+<!-- Portfolio -->
 <!--
-**KaikalDev/KaikalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Portfolio:
+- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
+- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
+- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
+- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
+- [Client Registry System](https://github.com/VariableBee/Cartorio)
 -->
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<div style="flex-basis: 48%;">
+    <h3>Languages</h3>
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+</div>
+
+<div style="flex-basis: 48%;">
+    <h3>Libraries</h3>
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
+    <img align="center" alt="Flask" height="30" width="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
+    <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+</div>
+
+<div style="flex-basis: 48%;">
+    <h3>Tools</h3>
+    <img align="center" alt="Babel" height="30" width="40" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+    <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img align="center" alt="Gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+</div>
