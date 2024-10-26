@@ -28,22 +28,11 @@
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaique-luan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaique_123luan/)
+[![Portifolio](https://img.shields.io/badge/Site%20portifolio-0c77c8)](https://portifolio-gilt-rho.vercel.app/?vercelToolbarCode=nYkbsfEyCjPuUFH)
 
 <!-- GithubStats -->
 ![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kaikaldev&show_icons=true&theme=gotham)
 ![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikalDev&show_icons=true&theme=gotham)
-
-<!-- Portfolio -->
-<!--
-## Portfolio:
-- [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
--->
-<!-- GIF -->
 
 
 ## 🔥 Skills
