@@ -34,6 +34,10 @@
 ![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kaikaldev&show_icons=true&theme=gotham)
 ![KaikalDev GitHub stats](https://github-readme-stats.vercel.app/api?username=KaikalDev&show_icons=true&theme=gotham)
 
+<img
+   alt="activity-graph graph" 
+   src="https://github-readme-activity-graph.vercel.app/graph?username=KaikalDev&radius=16&theme=gotham&area=true&order=5&hide_title=false&hide_border=true"
+ />
 
 ## 🔥 Skills
 <div style="flex-basis: 48%;">
