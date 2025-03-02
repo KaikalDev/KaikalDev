@@ -39,12 +39,3 @@
    src="https://github-readme-activity-graph.vercel.app/graph?username=KaikalDev&radius=16&theme=gotham&area=true&order=5&hide_title=false&hide_border=true"
  />
 
-<div style="flex-basis: 48%;">
-    <h3>Tools</h3>
-    <img align="center" alt="Babel" height="30" width="40" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg">
-    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
-    <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-    <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img align="center" alt="Gulp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
-    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
