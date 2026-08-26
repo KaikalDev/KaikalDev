@@ -12,19 +12,21 @@
 
 <!-- Apresentação -->
 <p>
-  Olá 👋, sou Kaique! Estudante e futuro desenvolvedor full stack.  
+    Olá, sou Kaique — Estudante de Ciência da Computação e Desenvolvedor Full Stack Java.
 
-  - 🎓 Atualmente, estudo Análise e Desenvolvimento de Sistemas na **UEPB** e faço o curso de Full Stack Java na **EBAC**.  
-  - 🚀 Apaixonado por tecnologia, gosto de explorar novas ferramentas e encarar desafios.  
+  * 🎓 Cursando Ciência da Computação na <strong>UFCG</strong>, Tecnólogo em Análise e Desenvolvimento de Sistemas pela <strong>UEPB</strong> e Desenvolvedor Full Stack Java pela <strong>EBAC</strong>.
+  * 🧠 Foco em consolidar fundamentos sólidos de algoritmos, estruturas de dados e engenharia de software através da formação acadêmica na UFCG.
+  * 💻 Experiência em desenvolvimento full stack, com interesse em arquitetura de sistemas e boas práticas de desenvolvimento.
+
 </p>
 
 <!-- Mais sobre mim -->
 <details>
   <summary>💡 Um pouco mais sobre mim</summary>
 
-  - 📍 Tenho 19 anos e moro no Brasil. Estou sempre em busca de aprendizado e novas experiências.  
-  - 🎮 Sou fã de cultura geek—quadrinhos, mangás, filmes e games fazem parte do meu dia a dia!  
-  - 🔢 Gosto de desafios lógicos e sou fascinado por puzzles, como cubos mágicos.  
+  - 📍 Brasil, 21 anos.
+  - 📚 Em constante aprendizado, buscando aprofundamento técnico e novas experiências profissionais.
+  - 🧩 Interesse por resolução de problemas lógicos e desafios estruturados, como algoritmos e puzzles.
 </details>
 
 ## 📊 Estatísticas do GitHub  
@@ -40,6 +42,4 @@
 
 ## 🚀 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-luan)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-0c77c8?style=for-the-badge)](https://portifolio-gilt-rho.vercel.app/?vercelToolbarCode=nYkbsfEyCjPuUFH)  
- 
-
+[![Portfólio](https://img.shields.io/badge/Portfólio-0c77c8?style=for-the-badge)](https://portifolio-gilt-rho.vercel.app/?vercelToolbarCode=nYkbsfEyCjPuUFH)
