@@ -31,14 +31,10 @@
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikalDev&layout=compact&theme=gotham" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KaikalDev&show_icons=true&theme=gotham" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KaikalDev&show_icons=true&include_all_commits=true&theme=dark_github" />
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=KaikalDev&layout=compact&langs_count=6&hide_values=true&theme=dark_github" />
 </div>
-
-<img  
-   alt="Gráfico de atividades"
-   src="https://github-readme-activity-graph.vercel.app/graph?username=KaikalDev&radius=16&theme=gotham&area=true&order=5&hide_title=false&hide_border=true"
-/>  
 
 ## 🚀 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-luan)  
